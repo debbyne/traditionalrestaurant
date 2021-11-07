@@ -97,6 +97,18 @@
     align-items: center;
     row-gap: 5%;
   }
+.image_3{
+    height: 400px;
+    width:600px;
+}
+.reviews{
+    background-color: black;
+    height:400px ;
+    width: 600px;
+    color: #f8f7f5;
+    border:solid black;
+    display: block;
+    justify-content: space-between;
+    
+}
 
-
-  
