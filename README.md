@@ -8,7 +8,7 @@ Our traditional restaurant offers the healthiest and most authentic meals at aff
 
 ## Demo
 
-[Live DEmo](https://d/)
+[Live DEmo](https://debbyne.github.io/traditionalrestaurant/)
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ Debbyne Kinya
 
 ## Project setup and instructions
 
-I have deployed the page and here is the [link](https://davidkiama.github.io/Letuce-Eat/). You can also download the entire folder and open the html file on your browser.
+I have deployed the page and here is the [link](https://debbyne.github.io/traditionalrestaurant/). You can also download the entire folder and open the html file on your browser.
 
 ## Support and contact details
 
