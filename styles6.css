@@ -133,9 +133,9 @@
 h5{
     padding-left: 70px;
 }
-.menu h2{
+.menu-heading{
     color: rgb(240, 145, 77);
-    padding-left: 340px;
+    text-align: center;
 }
 .menu{
    background-color: rgb(196, 194, 194);
@@ -143,8 +143,10 @@ h5{
  row-gap: 50px;
  justify-content: space-around;
  display: flex; */
- display: flex;
- justify-content:space-evenly;
+ /* display: flex;
+ justify-content:center;
+  */
+  text-align: center;
  row-gap: 5%;
  flex-wrap: wrap;
  flex-shrink: calc(20%);
@@ -155,6 +157,8 @@ h5{
     row-gap: 30px;
     column-gap: 30px;
     flex-wrap: wrap;  
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .first{
     display: flex;
@@ -165,7 +169,7 @@ h5{
     text-align: center;
     background-color: #faf7f3;
     align-items: center;
-    width: 350px;
+    width: 450px;
 }
 img{
    height: 200px;
