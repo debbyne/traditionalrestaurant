@@ -141,3 +141,14 @@ h5{
    padding-left: 280px; 
    background-color: rgb(196, 194, 194);
 }
+.chap{
+    display: flex;
+    justify-content:space-evenly;
+    row-gap: 5%;
+    flex-wrap: wrap;  
+}
+.img4{
+    height: 100px;
+    width: 100px;
+    margin-left: 50px;
+}
