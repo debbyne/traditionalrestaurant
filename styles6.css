@@ -82,7 +82,7 @@
   .main{
     display: flex;
     justify-content:space-evenly;
-    row-gap: 5%;
+    row-gap: 10px;
     flex-wrap: wrap;
     flex-shrink: calc(20%);
 }
