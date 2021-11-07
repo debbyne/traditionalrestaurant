@@ -18,7 +18,7 @@
     
 }
 .logo-name{
-    color: #ff5e00;
+    color: #F19201;
     font-size: 13px;
     font-weight: lighter;
     height: 385px;
@@ -61,7 +61,7 @@
   }
   .premium button{
       margin-top:50px;
-      background-color: hsl(36, 100%, 50%);
+      background-color: #F19201;
   color: seashell;
       text-align: center;
   }
@@ -74,7 +74,7 @@
   }
   .body.h1{
       margin-left: 250px;
-      color: #ffa500;
+      color: #F19201;
   }
   .main{
     display: flex;
@@ -134,7 +134,7 @@ h5{
     padding-left: 70px;
 }
 .menu-heading{
-    color: rgb(240, 145, 77);
+    color: #F19201;
     text-align: center;
 }
 .menu{
@@ -176,10 +176,6 @@ img{
    height: 200px;
    width: 200px; 
 }
-.close{
-    
-    
-}
 .finish{
     background-image:url("image8.png") ;
     background-position: center;
@@ -214,5 +210,5 @@ h4{
   text-align: center;
 }
 .first h3{
-  color: hsla(22, 95%, 59%, 0.829);  
+  color:#F19201 ;  
 }
