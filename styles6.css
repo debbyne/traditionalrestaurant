@@ -133,3 +133,11 @@
 h5{
     padding-left: 70px;
 }
+.menu h2{
+    color: rgb(240, 145, 77);
+    padding-left: 340px;
+}
+.menu{
+   padding-left: 280px; 
+   background-color: rgb(196, 194, 194);
+}
