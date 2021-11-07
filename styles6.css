@@ -30,13 +30,13 @@
 }
 .nav{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     flex-grow: 0.1;
     height: 420px;
     margin-left: 150px;
     font-size: 10px;
     text-decoration: none;
-    word-spacing: 10px;
+    word-spacing: 5px;
     font-family: roboto;
 
 }
