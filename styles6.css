@@ -213,3 +213,6 @@ h4{
   color: #faf7f3;
   text-align: center;
 }
+.first h3{
+  color: hsla(22, 95%, 59%, 0.829);  
+}
